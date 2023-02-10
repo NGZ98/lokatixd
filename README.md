@@ -1,0 +1,2 @@
+# lokatixd
+GIT ADD
